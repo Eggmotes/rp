@@ -1,1 +1,12 @@
 theme: jekyll-theme-time-machine
+title:       Eggmotes Rich Presence
+# The name of the repository
+repotitle:   Eggmotes Rich Presence
+# Description
+description: Discord Rich Presence for the Eggmotes server
+# Author
+author:      advaith
+# Author URL
+authorurl:   http://github.com/advaith1
+# URL to the page. Usually https://orgname.github.io (put whatever's in the CNAME otherwise)
+url:         https://rp.eggmotes.tk
