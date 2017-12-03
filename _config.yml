@@ -1,4 +1,4 @@
-theme: jekyll-theme-time-machine
+remote_theme: advaith1/time-machine
 title:       Eggmotes Rich Presence
 # The name of the repository
 repotitle:   Eggmotes Rich Presence
