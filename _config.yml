@@ -1,3 +1,4 @@
+# Using the advaith1/time-machine theme
 remote_theme: advaith1/time-machine
 title:       Eggmotes Rich Presence
 # The name of the repository
@@ -10,3 +11,5 @@ author:      advaith#9121
 authorurl:   http://github.com/advaith1
 # URL to the page. Usually https://orgname.github.io (put whatever's in the CNAME otherwise)
 url:         https://rp.eggmotes.tk
+# favicon URL
+favicon:     https://cdn.discordapp.com/icons/382989946836877312/d9546a1eacba79a227fb444742940967.png?size=1024
