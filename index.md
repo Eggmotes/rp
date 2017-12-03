@@ -1,3 +1,4 @@
+  
 Eggmotes Rich Presence lets you have a custom Rich Presence for the Eggmotes server.
 You can customize the text.
 
